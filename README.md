@@ -34,15 +34,7 @@
 
 ### 🔝 Top Contributed Repo
 
-
-
-<p align="center">
-    <img width="700" src="https://github-contributor-stats.vercel.app/api?username=mestiri77&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true
-" alt="Material Bread logo">
-</p>
-
-
-
+![](https://github-contributor-stats.vercel.app/api?username=mestiri77&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)<br/>
 
 <!--
 **Mestiri77/Mestiri77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
