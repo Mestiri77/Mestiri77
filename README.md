@@ -3,8 +3,13 @@
 <h3 align="center">A passionate carthagian Full Stack developer</h3>
 
 
+<p align="center">
+    <img width="1500" src="https://logopond.com/logos/b4f4918b027ac2801e051ef9f44b44c9.png" alt="Material Bread logo">
+</p>
+<p align="center">
+    <img width="150" src="https://visitcount.itsvg.in/api?id=mestiri77&icon=8&color=11" alt="Material Bread logo">
+</p>
 
-![Logo](https://logopond.com/logos/b4f4918b027ac2801e051ef9f44b44c9.png)
 
 
 - 🔭 I’m currently working on [JalyssCom](https://github.com/jalyss/jalyss-platform)
@@ -17,7 +22,7 @@
 
 - 📫 How to reach me **faroukmestiri77@gmail.com**
  
-[![](https://visitcount.itsvg.in/api?id=mestiri77&icon=8&color=11)](https://visitcount.itsvg.in)
+[![]()](https://visitcount.itsvg.in)
 
 
  ### Connect with me
@@ -28,7 +33,7 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mestiri77&limit=5&theme=dark&combine_all_yearly_contributions=true)
+https://github-contributor-stats.vercel.app/api?username=mestiri77&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
@@ -54,20 +59,25 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=mestiri77&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mestiri77&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mestiri77&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mestiri77&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mestiri77&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=7)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="700px"/>
 
 ### 😂 Random Dev Meme
-<img src="https://miro.medium.com/v2/resize:fit:720/0*TgRiJ3a0c9uqDNyB" width="512px"/>
+<p align="center">
+<img src="https://miro.medium.com/v2/resize:fit:720/0*TgRiJ3a0c9uqDNyB" width="700px"/>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
