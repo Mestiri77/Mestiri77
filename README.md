@@ -37,7 +37,7 @@
 
 
 <p align="center">
-    <img width="700" src="https://github-contributor-stats.vercel.app/api?username=mestiri77&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+    <img width="700" src="https://github-contributor-stats.vercel.app/api?username=mestiri77&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true
 " alt="Material Bread logo">
 </p>
 
