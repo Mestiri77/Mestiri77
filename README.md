@@ -1,10 +1,10 @@
-### Aslema 👋 
-<h1 align="center">Aloha 👋, my name is Farouk Mestiri</h1>
-<h3 align="center">A passionate carthagian Full Stack developer</h3>
+### Aslema 🙋🏻
+<h1 align="center">My name is🕺my name is🕺my name is MESTIRI </h1>
+<h3 align="center">A passionate carthagian Full Stack developer 🧑🏼‍💻</h3>
 
 
 <p align="center">
-    <img width="1500" src="https://logopond.com/logos/b4f4918b027ac2801e051ef9f44b44c9.png" alt="Material Bread logo">
+    <img width="1500" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="Material Bread logo">
 </p>
 <p align="center">
     <img width="150" src="https://visitcount.itsvg.in/api?id=mestiri77&icon=8&color=11" alt="Material Bread logo">
