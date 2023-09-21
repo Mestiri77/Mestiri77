@@ -1,6 +1,6 @@
 ### Aslema 🙋🏻
 <h1 align="center">My name is🕺my name is🕺my name is MESTIRI </h1>
-<h3 align="center">A passionate carthagian Full Stack developer 🧑🏼‍💻</h3>
+<h3 align="center">A passionate carthaginian Full Stack developer 🧑🏼‍💻</h3>
 
 
 <p align="center">
