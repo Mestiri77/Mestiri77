@@ -1,6 +1,6 @@
 ### Aslema 🙋🏻
 <h1 align="center">My name is🕺my name is🕺my name is MESTIRI </h1>
-<h3 align="center">A passionate carthaginian Full Stack developer 🧑🏼‍💻</h3>
+<h3 align="center">A passionate carthaginian Full-Stack JS developer 🧑🏼‍💻</h3>
 
 
 
@@ -10,7 +10,7 @@
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="700px"/>
 
-### 😂 Random Dev Meme
+
 <p align="center">
 <img src="https://miro.medium.com/v2/resize:fit:720/0*TgRiJ3a0c9uqDNyB" width="700px"/>
 
