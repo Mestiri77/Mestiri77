@@ -3,65 +3,6 @@
 <h3 align="center">A passionate carthaginian Full Stack developer 🧑🏼‍💻</h3>
 
 
-<p align="center">
-    <img width="1500" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="Material Bread logo">
-</p>
-<p align="center">
-    <img width="150" src="https://visitcount.itsvg.in/api?id=mestiri77&icon=8&color=11" alt="Material Bread logo">
-</p>
-
-
-
-- 🔭 I’m currently working on [JalyssCom](https://github.com/jalyss/jalyss-platform)
-
-- 🌱 I’m currently learning **Nestjs**
-
-- 📝 I occasionally write articles on [https://medium.com/@faroukmestiri77](https://medium.com/@faroukmestiri77)
-
-- 💬 Ask me about **React , Nextjs , Vuejs, Express**
-
-- 📫 How to reach me **faroukmestiri77@gmail.com**
- 
-[![]()](https://visitcount.itsvg.in)
-
-
- ### Connect with me
-<p align="center">
-<a href="https://linkedin.com/in/faroukmestiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faroukmestiri" height="30" width="40" /></a>
-<a href="https://medium.com/@faroukmestiri77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faroukmestiri77" height="30" width="40" /></a>
-</p>
-
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=mestiri77&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)<br/>
-
-<!--
-**Mestiri77/Mestiri77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=mestiri77&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mestiri77&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mestiri77&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mestiri77&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=7)
 
 ### ✍️ Random Dev Quote
 
