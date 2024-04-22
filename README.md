@@ -2,11 +2,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%43B4BE&height=67&duration=4000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
-<div align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" loading="lazy">
-</div>
-<img src="https://giffiles.alphacoders.com/219/219887.gif"   width="100%" height="500px" alt="gojo" >
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 <div align="center">
     <img width="200px" src="./assets/logo/sfectoria.png" loading="lazy"/>
 </div>
