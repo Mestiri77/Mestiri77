@@ -1,4 +1,7 @@
-
+# عسلامة 👋
+<div align="center">
+	<img src="https://giffiles.alphacoders.com/219/219887.gif"   width="100%" height="500px"/>
+</div>
 <div align="center">
     <img width="200px" src="./assets/logo/sfectoria.png"/>
 </div>
