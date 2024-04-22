@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" loading="lazy">
 </div>
-<img src="https://giffiles.alphacoders.com/219/219887.gif"   width="100%" height="500px" >
+<img src="https://giffiles.alphacoders.com/219/219887.gif"   width="100%" height="500px" alt="gojo" >
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
     <img width="200px" src="./assets/logo/sfectoria.png" loading="lazy"/>
