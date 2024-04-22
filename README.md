@@ -1,5 +1,8 @@
 
 <div align="center">
+    <img width="200px" src="./assets/logo/sfectoria.png"/>
+</div>
+<div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=mestiri77"/>
 </div>
 <div align="center">
