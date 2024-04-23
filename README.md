@@ -1,7 +1,7 @@
 # عسلامة 👋
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%43B4BE&height=67&duration=4000&center=true&lines=SFECTORIA">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%43B4BE&height=67&duration=4000&center=true&lines=SFECTORIAN">
 
 
 
