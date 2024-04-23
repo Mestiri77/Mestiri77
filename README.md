@@ -1,6 +1,6 @@
 # عسلامة 👋
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%43B4BE&height=67&duration=4000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%43B4BE&height=67&duration=4000&center=true&lines=%73%66%65%63%74%6F%72%69%61">
 
 
 
