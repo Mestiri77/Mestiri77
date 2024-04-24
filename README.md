@@ -21,7 +21,7 @@
 <div align="center">
 
  <img  src="https://github-readme-stats.vercel.app/api?username=mestiri77&show_icons=true&theme=dracula&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats"  width="370"/></a>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea&mode=weekly" alt="GitHub Streak"  width="390"/></a>
+ <a href="https://www.sfectoria.com"><img src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea&mode=weekly" alt="GitHub Streak"  width="390"/></a>
 <a>
 </div>
 <!--🦶FOOTER--> 
