@@ -1,4 +1,4 @@
-# عسلامة 👋
+# عسلامة <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50">
 <!-- <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=color=0076CE&height=67&duration=4000&center=true&lines=SFECTORIAN">
