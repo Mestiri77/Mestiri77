@@ -17,9 +17,10 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea&mode=weekly" alt="GitHub Streak"  width="390"/></a>
-<a>
+
  <img  src="https://github-readme-stats.vercel.app/api?username=mestiri77&show_icons=true&theme=dracula&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats"  width="370"/></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea&mode=weekly" alt="GitHub Streak"  width="390"/></a>
+<a>
 </div>
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" loading="lazy">
