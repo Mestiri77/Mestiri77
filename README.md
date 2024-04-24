@@ -1,15 +1,16 @@
 # عسلامة 👋
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=color=0076CE&height=67&duration=4000&center=true&lines=SFECTORIAN">
-</div>
+</div> -->
 
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+
 <div align="center">
     <img width="200px" src="./assets/logo/sfectoria.png" loading="lazy"/>
 </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 <div align="center">
     <img height="200px" src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea" loading="lazy"/>
 </div>
