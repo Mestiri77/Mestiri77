@@ -10,16 +10,16 @@
     <img width="200px" src="./assets/logo/sfectoria.png" loading="lazy"/>
 </div>
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=mestiri77" loading="lazy"/>
+    <img height="200px" src="https://streak-stats.demolab.com?user=Mestiri77&theme=youtube-dark" loading="lazy"/>
 </div>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" loading="lazy"/>
 </div>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mestiri77&mode=weekly&hide_total_contributions=true" alt="GitHub Streak"  width="390"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mestiri77&theme=youtube-dark&mode=weekly" alt="GitHub Streak"  width="390"/></a>
 <a>
- <img  src="https://github-readme-stats.vercel.app/api?username=mestiri77&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats"  width="370"/></a>
+ <img  src="https://github-readme-stats.vercel.app/api?username=mestiri77&show_icons=true&theme=dracula&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats"  width="370"/></a>
 </div>
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" loading="lazy">
