@@ -1,11 +1,9 @@
 # عسلامة <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50">
+
 <!-- <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=color=0076CE&height=67&duration=4000&center=true&lines=SFECTORIAN">
 </div> -->
-
-
-
 
 <div align="center">
     <img width="200px" src="./assets/logo/sfectoria.png" loading="lazy"/>
@@ -18,11 +16,41 @@
 	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="152">
 </div>
 
+###
+<div align="center">
+ <img src="./icons/Babel.svg" width="48">
+  <img src="./icons/Bash-Dark.svg" width="48">
+  <img src="./icons/Bootstrap.svg" width="48"> 
+   <img src="./icons/CSS.svg" width="48"> 
+   <img src="./icons/ExpressJS-Dark.svg" width="48"> 
+    <img src="./icons/Figma-Dark.svg" width="48"> 
+     <img src="./icons/Git.svg" width="48">   
+       <img src="./icons/Github-Dark.svg" width="48"> 
+        <img src="./icons/HTML.svg" width="48">
+ <img src="./icons/JavaScript.svg" width="48">
+    <img src="./icons/JQuery.svg" width="48">   
+<img src="./icons/MongoDB.svg" width="48"> 
+ <img src="./icons/MySQL-Dark.svg" width="48"> 
+  <img src="./icons/NestJS-Dark.svg" width="48"> 
+    <img src="./icons/NodeJS-Dark.svg" width="48">
+     <img src="./icons/PostgreSQL-Dark.svg" width="48"> 
+           <img src="./icons/Prisma.svg" width="48">  
+            <img src="./icons/React-Dark.svg" width="48">  
+             <img src="./icons/Redux.svg" width="48">
+             <img src="./icons/Sequelize-Dark.svg" width="48"> 
+             <img src="./icons/TailwindCSS-Dark.svg" width="48">
+             <img src="./icons/TypeScript.svg" width="48"> 
+             <img src="./icons/VSCode-Dark.svg" width="48"> 
+</div>
+
+###
+
 <div align="center">
 
- <img  src="https://github-readme-stats.vercel.app/api?username=mestiri77&show_icons=true&theme=dracula&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats"  width="370"/></a>
- <a href="https://www.sfectoria.com"><img src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea&mode=weekly" alt="GitHub Streak"  width="390"/></a>
+<img  src="https://github-readme-stats.vercel.app/api?username=mestiri77&show_icons=true&theme=dracula&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats"  width="370"/></a>
+<a href="https://www.sfectoria.com"><img src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea&mode=weekly" alt="GitHub Streak"  width="390"/></a>
 <a>
+
 </div>
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" loading="lazy">
@@ -35,19 +63,16 @@
 <i>Last refresh</i> : <b>Monday, April 25nd, 2024, 18:36:45 🕙 </b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
-
-
-
 <!-- <div align="">
-   <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="75">&nbsp; 
-   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp; 
-   <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="75">&nbsp; 
+   <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="75">&nbsp;
+   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp;
+   <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="75">&nbsp;
    <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" width="75">&nbsp;
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="75">&nbsp;
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4b38a8c7-dd8d-4199-9eec-cb4ac20414d6" width="75">&nbsp; 
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4b38a8c7-dd8d-4199-9eec-cb4ac20414d6" width="75">&nbsp;
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp;
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="75">&nbsp; 
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="75">&nbsp;
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="75">&nbsp;
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f7ba88c3-6090-48bc-919d-39c17944ea04" width="75">&nbsp;
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp;
