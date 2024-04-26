@@ -13,7 +13,7 @@
     <img height="200px" src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea" loading="lazy"/>
 </div>
 <div align="center">
-	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="152">
+	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="143">
 </div>
 
 ###
