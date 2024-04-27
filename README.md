@@ -13,34 +13,34 @@
     <img height="200px" src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea" loading="lazy"/>
 </div>
 <div align="center">
-	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="152">
+	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="143">
 </div>
 
 ###
 <div align="center">
- <img src="./icons/Babel.svg" width="48">
-  <img src="./icons/Bash-Dark.svg" width="48">
-  <img src="./icons/Bootstrap.svg" width="48"> 
-   <img src="./icons/CSS.svg" width="48"> 
-   <img src="./icons/ExpressJS-Dark.svg" width="48"> 
-    <img src="./icons/Figma-Dark.svg" width="48"> 
-     <img src="./icons/Git.svg" width="48">   
-       <img src="./icons/Github-Dark.svg" width="48"> 
-        <img src="./icons/HTML.svg" width="48">
- <img src="./icons/JavaScript.svg" width="48">
-    <img src="./icons/JQuery.svg" width="48">   
+<img src="./icons/VSCode-Dark.svg" width="48"> 
+<img src="./icons/HTML.svg" width="48">
+<img src="./icons/CSS.svg" width="48"> 
+<img src="./icons/Figma-Dark.svg" width="48"> 
+<img src="./icons/Bootstrap.svg" width="48"> 
+<img src="./icons/TailwindCSS-Dark.svg" width="48">
+ <img src="./icons/TypeScript.svg" width="48"> 
+<img src="./icons/JavaScript.svg" width="48">
+<img src="./icons/JQuery.svg" width="48">   
+<img src="./icons/Git.svg" width="48">   
+<img src="./icons/Github-Dark.svg" width="48"> 
+<img src="./icons/Babel.svg" width="48">
+<img src="./icons/React-Dark.svg" width="48">  
+<img src="./icons/Redux.svg" width="48">
+<img src="./icons/Bash-Dark.svg" width="48">
+<img src="./icons/NodeJS-Dark.svg" width="48">
+<img src="./icons/ExpressJS-Dark.svg" width="48"> 
+<img src="./icons/NestJS-Dark.svg" width="48"> 
 <img src="./icons/MongoDB.svg" width="48"> 
- <img src="./icons/MySQL-Dark.svg" width="48"> 
-  <img src="./icons/NestJS-Dark.svg" width="48"> 
-    <img src="./icons/NodeJS-Dark.svg" width="48">
-     <img src="./icons/PostgreSQL-Dark.svg" width="48"> 
-           <img src="./icons/Prisma.svg" width="48">  
-            <img src="./icons/React-Dark.svg" width="48">  
-             <img src="./icons/Redux.svg" width="48">
-             <img src="./icons/Sequelize-Dark.svg" width="48"> 
-             <img src="./icons/TailwindCSS-Dark.svg" width="48">
-             <img src="./icons/TypeScript.svg" width="48"> 
-             <img src="./icons/VSCode-Dark.svg" width="48"> 
+<img src="./icons/MySQL-Dark.svg" width="48"> 
+<img src="./icons/PostgreSQL-Dark.svg" width="48"> 
+<img src="./icons/Prisma.svg" width="48">  
+<img src="./icons/Sequelize-Dark.svg" width="48"> 
 </div>
 
 ###
