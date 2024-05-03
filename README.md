@@ -7,6 +7,7 @@
 
 <div align="center">
    <img width="200px" src="./assets/logo/sfectoria.png" loading="lazy"/>
+ 
 
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
@@ -44,8 +45,10 @@
 <img src="./icons/Sequelize-Dark.svg" width="48"> 
 </div>
 
+<p align="center">
 
-
+<img alt="centered image" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/800px-Flag_of_Palestine.svg.png?20230715225310"/>
+</p>
 <div align="center">
 
 <img  src="https://github-readme-stats.vercel.app/api?username=mestiri77&show_icons=true&theme=dracula&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats"  width="370"/></a>
@@ -54,8 +57,7 @@
 
 </div>
 <p align="center">
- <a> <img alt="centered image" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/800px-Flag_of_Tunisia.svg.png"/></a>
-<a><img alt="centered image" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/800px-Flag_of_Palestine.svg.png?20230715225310"/></a>
+<img alt="centered image" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/800px-Flag_of_Palestine.svg.png?20230715225310"/>
 </p>
 
 <!--🦶FOOTER--> 
