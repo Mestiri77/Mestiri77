@@ -7,6 +7,7 @@
 
 <div align="center">
    <img width="200px" src="./assets/logo/sfectoria.png" loading="lazy"/>
+
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 <div align="center">
@@ -52,6 +53,10 @@
 <a>
 
 </div>
+<p align="center">
+ <a> <img alt="centered image" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/800px-Flag_of_Tunisia.svg.png"/></a>
+<a><img alt="centered image" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/800px-Flag_of_Palestine.svg.png?20230715225310"/></a>
+</p>
 
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" loading="lazy">
