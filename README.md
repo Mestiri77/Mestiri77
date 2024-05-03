@@ -6,7 +6,7 @@
 </div> -->
 
 <div align="center">
-    <img width="200px" src="./assets/logo/sfectoria.png" loading="lazy"/>
+   <img width="200px" src="./assets/logo/sfectoria.png" loading="lazy"/>
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 <div align="center">
@@ -16,7 +16,7 @@
 	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="143">
 </div>
 
-###
+
 <div align="center">
 <img src="./icons/VSCode-Dark.svg" width="48"> 
 <img src="./icons/HTML.svg" width="48">
@@ -43,7 +43,7 @@
 <img src="./icons/Sequelize-Dark.svg" width="48"> 
 </div>
 
-###
+
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 <!--RECENT_ACTIVITY:end-->
 <p align="right"> 🔥
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Monday, May 1st, 2024, 21:49:45 🕙 </b>
+<i>Last refresh</i> : <b>Monday, May 3rd, 2024, 23:37:45 🕙🚀 </b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- <div align="">
