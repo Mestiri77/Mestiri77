@@ -56,9 +56,9 @@
 <a>
 
 </div>
-<p align="center">
-<img alt="centered image" height="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/800px-Flag_of_Tunisia.svg.png" />
-</p>
+<div align="center"  style="border-radius: 100px;display: inline-block;"">
+<img alt="centered image" height="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/800px-Flag_of_Tunisia.svg.png" style="border-radius: 100px;" />
+</div>
 
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" loading="lazy">
