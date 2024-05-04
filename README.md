@@ -1,4 +1,4 @@
-# عسلامة   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40">
+# عسلامة   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">
 
 <!-- <div align="center">
 
@@ -68,7 +68,7 @@
 <!--RECENT_ACTIVITY:end-->
 <p align="right"> 🔥
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Monday, May 3rd, 2024, 23:37:45 🕙🚀 </b>
+<i>Last refresh</i> : <b>Saturday, May 4th, 2024, 15:37:45 🕙🚀 </b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- <div align="">
