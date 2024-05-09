@@ -63,6 +63,22 @@
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" loading="lazy">
 
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://sfectoria.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://sfectoria.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCkh9nFn2Oo0Izi_-tR7fV_Q#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCkh9nFn2Oo0Izi_-tR7fV_Q#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/company/sfectoria/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/company/sfectoria/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/sfectoria.tn/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/sfectoria.tn/#gh-dark-mode-only)
 
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
