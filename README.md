@@ -86,7 +86,7 @@
 <p align="right"> 🔥
 <!--RECENT_ACTIVITY:last_update-->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="25">
-<i>Last refresh</i> : <b>Monday, May 6th, 2024, 09:52:45 🕙🚀   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="25"> </b> 
+<i>Last refresh</i> : <b>Monday, May 9th, 2024, 12:26:45 🕙🚀   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="25"> </b> 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- <div align="">
