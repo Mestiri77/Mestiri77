@@ -71,6 +71,8 @@ let Farouk = {
   Backend: [ "Nodejs","Expressjs","Nestjs"],
   Frontend: ["HTML", "Javascript", "ReactJs", "CSS","BOOTSTRAP","TAILWIND"],
   Database: ["Postgresql", "mySQL", "Mongodb"],
+  ORM: ["PRISMA","SEQUELIZE"],
+  ODM: ["MONGOOSE"],
   CloudServer: ["MongoDB Atlas","Heroku"],
   Architecture: ["MICROSERVICE", "MVC"],
   Challenge: "ECIA-EVERY CHALLENGE IS ACCEPTED"
