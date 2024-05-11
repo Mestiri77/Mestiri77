@@ -63,7 +63,7 @@
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" loading="lazy">
 
-### Connect with me:
+### Connect with me
 
 [![website](./img/globe-light.svg)](https://sfectoria.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://sfectoria.com#gh-dark-mode-only)
