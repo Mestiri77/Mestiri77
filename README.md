@@ -67,7 +67,7 @@
 
 ```javascript
 CONST Farouk = {
-  Name: "He" ,
+  Family: ["MESTIRI","SFECTORIA"],
   Backend: [ "Nodejs","Expressjs","Nestjs"],
   Frontend: ["HTML", "Javascript", "ReactJs", "CSS","BOOTSTRAP","TAILWIND"],
   Database: ["Postgresql", "mySQL", "Mongodb"],
