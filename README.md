@@ -66,7 +66,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-CONST Farouk = {
+let Farouk = {
   Family: ["MESTIRI","SFECTORIA"],
   Backend: [ "Nodejs","Expressjs","Nestjs"],
   Frontend: ["HTML", "Javascript", "ReactJs", "CSS","BOOTSTRAP","TAILWIND"],
