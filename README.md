@@ -59,10 +59,6 @@
 <div align="center"  style="border-radius: 100px;display: inline-block;"">
 <img alt="centered image" height="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/800px-Flag_of_Tunisia.svg.png" style="border-radius: 100px;" />
 </div>
-
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" loading="lazy">
-
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -95,6 +91,10 @@ let Farouk = {
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/sfectoria.tn/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sfectoria.tn/#gh-dark-mode-only)
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" loading="lazy">
+
+
 
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
