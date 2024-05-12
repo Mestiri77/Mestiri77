@@ -6,7 +6,7 @@
 </div> -->
 
 <div align="center">
-   <img width="340px" src="./assets/logo/sfectoria.png" loading="lazy"/>
+   <img width="250px" src="./assets/logo/sfectoria.png" loading="lazy"/>
  
 
 </div>
