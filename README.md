@@ -71,6 +71,7 @@ let Farouk = {
   Backend: [ "Nodejs","Expressjs","Nestjs"],
   Frontend: ["HTML", "Javascript", "ReactJs", "CSS","BOOTSTRAP","TAILWIND","MUI"],
   Database: ["Postgresql", "mySQL", "Mongodb"],
+  Open_api : ["Swagger"],
   ORM: ["PRISMA","SEQUELIZE"],
   ODM: ["MONGOOSE"],
   CloudServer: ["MongoDB Atlas","Heroku"],
