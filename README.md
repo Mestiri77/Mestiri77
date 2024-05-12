@@ -69,7 +69,7 @@
 let Farouk = {
   Family: ["MESTIRI","SFECTORIA"],
   Backend: [ "Nodejs","Expressjs","Nestjs"],
-  Frontend: ["HTML", "Javascript", "ReactJs", "CSS","BOOTSTRAP","TAILWIND"],
+  Frontend: ["HTML", "Javascript", "ReactJs", "CSS","BOOTSTRAP","TAILWIND","MUI"],
   Database: ["Postgresql", "mySQL", "Mongodb"],
   ORM: ["PRISMA","SEQUELIZE"],
   ODM: ["MONGOOSE"],
