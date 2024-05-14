@@ -59,7 +59,7 @@
 <div align="center"  style="border-radius: 100px;display: inline-block;"">
 <img alt="centered image" height="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/800px-Flag_of_Tunisia.svg.png" style="border-radius: 100px;" />
 </div>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Who i'am I...  
 
 ```javascript
 let Farouk = {
