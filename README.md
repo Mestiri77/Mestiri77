@@ -63,16 +63,16 @@
 
 ```javascript
 let Farouk = {
-  Family: ["MESTIRI","SFECTORIA"],
+  Family: ["Mestiri","Sfectoria"],
   Backend: [ "Nodejs","Expressjs","Nestjs"],
   Frontend: ["HTML", "Javascript", "ReactJs", "CSS","BOOTSTRAP","TAILWIND","MUI"],
   Database: ["Postgresql", "mySQL", "Mongodb"],
   Open_api : ["SwaggerUI"],
-  ORM: ["PRISMA","SEQUELIZE"],
+  ORM: ["Prisma","SEQUELIZE"],
   ODM: ["MONGOOSE"],
   CloudServer: ["MongoDB Atlas","Heroku"],
   Architecture: ["MICROSERVICE", "MVC"],
-  Challenge: "ECIA-EVERY CHALLENGE IS ACCEPTED"
+  Challenge: "Every challenge is accepted"
 }
 ```
 ### Connect with me
