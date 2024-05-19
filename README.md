@@ -60,7 +60,7 @@
 <img alt="centered image" height="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/800px-Flag_of_Tunisia.svg.png" style="border-radius: 100px;" />
 </div>
 <div align="center">
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="75"> 
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="75">   <img src="https://i0.wp.com/i.imgur.com/PfgvU6j.gif" width="60">
 </div>
  
 
