@@ -105,12 +105,13 @@ let Farouk = {
 
 <p align="right"> 
 <!--RECENT_ACTIVITY:last_update-->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="40">
+
 <img src="https://media4.giphy.com/media/P5S1CXl0y1v1I9308B/giphy.gif?cid=6c09b952p64d4yjwxbhckokhfmbscavxgeprcb5xisc0r4uw&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="45">
 <i>Last update  </i> :🚀🕙 <b>May 20th, 2024, 16:28:30 🦸🔥</b> 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- <div align="">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="40">
    <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="75">&nbsp;
    <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp;
    <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="75">&nbsp;
