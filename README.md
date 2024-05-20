@@ -106,7 +106,7 @@ let Farouk = {
 <p align="right"> 
 <!--RECENT_ACTIVITY:last_update-->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="40">
-<img src="https://media4.giphy.com/media/P5S1CXl0y1v1I9308B/giphy.gif?cid=6c09b952p64d4yjwxbhckokhfmbscavxgeprcb5xisc0r4uw&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="42">
+<img src="https://media4.giphy.com/media/P5S1CXl0y1v1I9308B/giphy.gif?cid=6c09b952p64d4yjwxbhckokhfmbscavxgeprcb5xisc0r4uw&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="45">
 <i>Last update  </i> :🚀🕙 <b>May 20th, 2024, 16:28:30 🦸🔥</b> 
 <!--RECENT_ACTIVITY:last_update_end-->
 
