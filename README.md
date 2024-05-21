@@ -108,7 +108,7 @@ let Farouk = {
 
 <img src="https://media4.giphy.com/media/P5S1CXl0y1v1I9308B/giphy.gif?cid=6c09b952p64d4yjwxbhckokhfmbscavxgeprcb5xisc0r4uw&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="52">
 <img src="https://media.tenor.com/lO6HqZ3I2dIAAAAj/e.gif" width="52">
-<i>Last update  </i> :🚀🕙 <b>May 21th, 2024, 10:19:30 🦸🔥</b> 
+<i>Updated at  </i> :🚀🕙 <b>May 21th, 2024, 10:19:30 🦸🔥</b> 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- <div align="">
