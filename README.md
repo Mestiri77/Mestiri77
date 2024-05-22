@@ -112,7 +112,7 @@ let Farouk = {
 "It's all talk until the code runs."
 — Ward Cunningham
   </i> </b> 
-<img src="https://animesher.com/orig/1/157/1575/15751/animesher.com_shingeki-no-kyojin-gif-attack-on-titan-1575107.gif" width="52">
+<img src="https://static.wikia.nocookie.net/naruto/images/e/e9/Itachi_Child_OL.png/revision/latest?cb=20210415223303" width="52">
 
 
 <!--🚀🕙 <b>May 21th, 2024, 19:17:30  -->
