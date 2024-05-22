@@ -111,7 +111,7 @@ let Farouk = {
 <i>
 "It's all talk until the code runs."
 — Ward Cunningham
-  </i> 🦸🔥</b> 
+  </i> </b> 
 
 <!--🚀🕙 <b>May 21th, 2024, 19:17:30  -->
 <!--RECENT_ACTIVITY:last_update_end-->
