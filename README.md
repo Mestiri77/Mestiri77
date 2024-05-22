@@ -112,6 +112,8 @@ let Farouk = {
 "It's all talk until the code runs."
 — Ward Cunningham
   </i> </b> 
+<img src="https://animesher.com/orig/1/157/1575/15751/animesher.com_shingeki-no-kyojin-gif-attack-on-titan-1575107.gif" width="52">
+
 
 <!--🚀🕙 <b>May 21th, 2024, 19:17:30  -->
 <!--RECENT_ACTIVITY:last_update_end-->
