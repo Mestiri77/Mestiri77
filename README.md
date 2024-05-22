@@ -68,13 +68,13 @@
 let Farouk = {
   Family: ["Mestiri","Sfectoria"],
   Backend: [ "Nodejs","Expressjs","Nestjs"],
-  Frontend: ["HTML", "Javascript", "ReactJs", "CSS","BOOTSTRAP","TAILWIND","MUI"],
+  Frontend: ["HTML", "Javascript", "ReactJs", "css","bootstrap","MUI"],
   Database: ["Postgresql", "mySQL", "Mongodb"],
   Open_api : ["SwaggerUI"],
   ORM: ["Prisma","SEQUELIZE"],
   ODM: ["MONGOOSE"],
-  CloudServer: ["MongoDB Atlas","Heroku"],
-  Architecture: ["MICROSERVICE", "MVC"],
+  CloudServer: ["MongoDB Atlas"],
+  Architecture: ["MVC"],
   Challenge: "Every challenge is accepted"
 }
 ```
