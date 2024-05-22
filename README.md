@@ -108,13 +108,17 @@ let Farouk = {
 
 <img src="https://media4.giphy.com/media/P5S1CXl0y1v1I9308B/giphy.gif?cid=6c09b952p64d4yjwxbhckokhfmbscavxgeprcb5xisc0r4uw&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="52">
 <!-- <img src="https://media.tenor.com/lO6HqZ3I2dIAAAAj/e.gif" width="52"> -->
-<i>"Talk is cheap. Show me the code."
-- Linus Torvalds  </i> 🦸🔥</b> 
+<i>
+"It's all talk until the code runs."
+— Ward Cunningham
+  </i> 🦸🔥</b> 
 
 <!--🚀🕙 <b>May 21th, 2024, 19:17:30  -->
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- <div align="">
+"Talk is cheap. Show me the code.
+- Linus Torvalds
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="40">
    <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="75">&nbsp;
    <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp;
