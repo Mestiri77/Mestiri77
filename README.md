@@ -60,7 +60,10 @@
 <img alt="centered image" height="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/800px-Flag_of_Tunisia.svg.png" style="border-radius: 100px;" />
 </div>
 <div align="center">
-<img src="https://static.wikia.nocookie.net/naruto/images/e/e9/Itachi_Child_OL.png/revision/latest?cb=20210415223303" width="52">  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="52">  
+<!-- <img src="https://static.wikia.nocookie.net/naruto/images/e/e9/Itachi_Child_OL.png/revision/latest?cb=20210415223303" width="52">   -->
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07f58b8e-1cf1-4d91-9e30-69d2b5bc3b3b/dg6kj0a-86a694e2-ba52-4664-a4c2-d8aa03aecab0.png/v1/fill/w_1044,h_765/teen_boruto_png_by_aadunis_dg6kj0a-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTM4IiwicGF0aCI6IlwvZlwvMDdmNThiOGUtMWNmMS00ZDkxLTllMzAtNjlkMmI1YmMzYjNiXC9kZzZrajBhLTg2YTY5NGUyLWJhNTItNDY2NC1hNGMyLWQ4YWEwM2FlY2FiMC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.kBoGkn3pnE20w5A-Mg0wgdEMjdkmMX7bTNfh6bWLax0" width="134">  
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="52">  
  
 </div>
  
