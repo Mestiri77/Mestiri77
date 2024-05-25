@@ -41,8 +41,8 @@
 <img src="./icons/MongoDB.svg" width="34"> 
 <img src="./icons/MySQL-Dark.svg" width="34"> 
 <img src="./icons/PostgreSQL-Dark.svg" width="34"> 
-<img src="./icons/Prisma.svg" width="34">  
 <img src="./icons/Sequelize-Dark.svg" width="34"> 
+<img src="./icons/Prisma.svg" width="34">  
 </div>
 
 <p align="center">
