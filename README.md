@@ -20,29 +20,29 @@
 
 
 <div align="center">
-<img src="./icons/VSCode-Dark.svg" width="43"> 
-<img src="./icons/HTML.svg" width="43">
-<img src="./icons/CSS.svg" width="43"> 
-<img src="./icons/Figma-Dark.svg" width="43"> 
-<img src="./icons/Bootstrap.svg" width="43"> 
-<img src="./icons/TailwindCSS-Dark.svg" width="43">
- <img src="./icons/TypeScript.svg" width="43"> 
-<img src="./icons/JavaScript.svg" width="43">
-<img src="./icons/JQuery.svg" width="43">   
-<img src="./icons/Git.svg" width="43">   
-<img src="./icons/Github-Dark.svg" width="43"> 
-<img src="./icons/Babel.svg" width="43">
-<img src="./icons/React-Dark.svg" width="43">  
-<img src="./icons/Redux.svg" width="43">
-<img src="./icons/Bash-Dark.svg" width="43">
-<img src="./icons/NodeJS-Dark.svg" width="43">
-<img src="./icons/ExpressJS-Dark.svg" width="43"> 
-<img src="./icons/NestJS-Dark.svg" width="43"> 
-<img src="./icons/MongoDB.svg" width="43"> 
-<img src="./icons/MySQL-Dark.svg" width="43"> 
-<img src="./icons/PostgreSQL-Dark.svg" width="43"> 
-<img src="./icons/Prisma.svg" width="43">  
-<img src="./icons/Sequelize-Dark.svg" width="43"> 
+<img src="./icons/VSCode-Dark.svg" width="34"> 
+<img src="./icons/HTML.svg" width="34">
+<img src="./icons/CSS.svg" width="34"> 
+<img src="./icons/Figma-Dark.svg" width="34"> 
+<img src="./icons/Bootstrap.svg" width="34"> 
+<img src="./icons/TailwindCSS-Dark.svg" width="34">
+ <img src="./icons/TypeScript.svg" width="34"> 
+<img src="./icons/JavaScript.svg" width="34">
+<img src="./icons/JQuery.svg" width="34">   
+<img src="./icons/Git.svg" width="34">   
+<img src="./icons/Github-Dark.svg" width="34"> 
+<img src="./icons/Babel.svg" width="34">
+<img src="./icons/React-Dark.svg" width="34">  
+<img src="./icons/Redux.svg" width="34">
+<img src="./icons/Bash-Dark.svg" width="34">
+<img src="./icons/NodeJS-Dark.svg" width="34">
+<img src="./icons/ExpressJS-Dark.svg" width="34"> 
+<img src="./icons/NestJS-Dark.svg" width="34"> 
+<img src="./icons/MongoDB.svg" width="34"> 
+<img src="./icons/MySQL-Dark.svg" width="34"> 
+<img src="./icons/PostgreSQL-Dark.svg" width="34"> 
+<img src="./icons/Prisma.svg" width="34">  
+<img src="./icons/Sequelize-Dark.svg" width="34"> 
 </div>
 
 <p align="center">
