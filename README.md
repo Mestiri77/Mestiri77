@@ -115,8 +115,10 @@ let Farouk = {
 <i>
 <!-- "It's all talk until the code runs."
 — Ward Cunningham -->
-"In theory, theory and practice are the same. In practice, they’re not."
-- Yoggi Berra
+<!-- "In theory, theory and practice are the same. In practice, they’re not."
+- Yoggi Berra -->
+"Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems."
+— Jamie Zawinski
   </i> </b> 
 <img src="https://i0.wp.com/i.imgur.com/PfgvU6j.gif" width="52">
 
