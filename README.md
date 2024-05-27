@@ -47,7 +47,7 @@
 
 <p align="center">
 
-<img alt="centered image" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/800px-Flag_of_Palestine.svg.png?20230715225310"/>
+<img alt="centered image" height="61" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/800px-Flag_of_Palestine.svg.png?20230715225310"/>
 </p>
 <div align="center">
 
