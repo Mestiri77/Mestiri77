@@ -117,7 +117,7 @@ let Farouk = {
 — Ward Cunningham -->
 <!-- "In theory, theory and practice are the same. In practice, they’re not."
 - Yoggi Berra -->
-"Some people, when confronted with a problem, think < I know, I'll use regular expressions.> BOOM Now they have 2"Jamie-Zawinski
+"Some people, when confronted to a problem, think < I know, I'll use regular expressions.> BOOM Now they have 2"Jamie-Zawinski
   </i> </b> 
 <img src="https://i0.wp.com/i.imgur.com/PfgvU6j.gif" width="43">
 
