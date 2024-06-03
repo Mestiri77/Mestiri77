@@ -113,8 +113,9 @@ let Farouk = {
 <img src="https://media4.giphy.com/media/P5S1CXl0y1v1I9308B/giphy.gif?cid=6c09b952p64d4yjwxbhckokhfmbscavxgeprcb5xisc0r4uw&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="52">
 <!-- <img src="https://media.tenor.com/lO6HqZ3I2dIAAAAj/e.gif" width="52"> -->
 <i>
-"Talk is cheap. Show me the code.
-- Linus Torvalds <img src="https://i0.wp.com/i.imgur.com/PfgvU6j.gif" width="52"> </b>
+"The function of good software is to make the complex appear to be simple." 
+- Grady Booch
+ <img src="https://i0.wp.com/i.imgur.com/PfgvU6j.gif" width="52"> </b>
 
 
 <!--🚀🕙 <b>May 21th, 2024, 19:17:30  -->
@@ -149,15 +150,6 @@ let Farouk = {
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c727c530-7192-4c94-b491-bb9f1502a5e6" width="75">&nbsp;
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="75">&nbsp;
-
-
-
-
-
-
-
-
-
 
    "Walking on water and developing software from a specification are easy if both are frozen."
 - Edward V Berard
