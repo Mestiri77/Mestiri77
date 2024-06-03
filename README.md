@@ -113,8 +113,7 @@ let Farouk = {
 <img src="https://media4.giphy.com/media/P5S1CXl0y1v1I9308B/giphy.gif?cid=6c09b952p64d4yjwxbhckokhfmbscavxgeprcb5xisc0r4uw&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="52">
 <!-- <img src="https://media.tenor.com/lO6HqZ3I2dIAAAAj/e.gif" width="52"> -->
 <i>
-"The function of good software is to make the complex appear simple." 
-- Grady Booch
+"It's all talk until the code runs."— Ward Cunningham
  <img src="https://i0.wp.com/i.imgur.com/PfgvU6j.gif" width="52"> </b>
 
 
