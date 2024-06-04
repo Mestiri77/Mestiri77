@@ -72,8 +72,8 @@
 let Farouk = {
   Family: ["Mestiri","Sfectoria"],
   Backend: [ "Nodejs","Expressjs","Nestjs"],
-  Frontend: ["HTML", "Javascript", "ReactJs", "css","bootstrap","MUI"],
-  Database: ["Postgresql", "mySQL", "Mongodb","FireBase"],
+  Frontend: ["HTML", "Javascript", "ReactJs", "Css","Bootstrap","MUI"],
+  Database: ["PostgreSql", "MySQL", "Mongodb","FireBase"],
   Open_api : ["SwaggerUI"],
   ORM: ["Prisma","SEQUELIZE"],
   ODM: ["MONGOOSE"],
