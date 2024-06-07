@@ -77,7 +77,7 @@ let Farouk = {
   Open_api : ["SwaggerUI"],
 Data-Serialization-Language : ["YAML"],
   ORM: ["Prisma","SEQUELIZE"],
-  ODM: ["MONGOOSE"],
+  ODM: ["Mongoose"],
   CloudServer: ["MongoDB Atlas"],
   Architecture: ["MVC","Microsercices"],
   Challenge: "Every challenge is accepted"
