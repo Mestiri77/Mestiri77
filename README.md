@@ -79,7 +79,7 @@ Data-Serialization-Language : ["YAML"],
   ORM: ["Prisma","SEQUELIZE"],
   ODM: ["MONGOOSE"],
   CloudServer: ["MongoDB Atlas"],
-  Architecture: ["Mvc","Microsercices"],
+  Architecture: ["MVC","Microsercices"],
   Challenge: "Every challenge is accepted"
 }
 ```
