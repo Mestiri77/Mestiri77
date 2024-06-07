@@ -78,7 +78,7 @@ let Farouk = {
   ORM: ["Prisma","SEQUELIZE"],
   ODM: ["MONGOOSE"],
   CloudServer: ["MongoDB Atlas"],
-  Architecture: ["Mvc","MICROSERVICE"],
+  Architecture: ["Mvc","Microsercices"],
   Challenge: "Every challenge is accepted"
 }
 ```
