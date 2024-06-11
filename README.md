@@ -117,8 +117,7 @@ Data-Serialization-Language : ["YAML"],
 <!--  Some people, when confronted to a problem, think "I know, I'll use regular expressions"BOOM now they have 2 - Jamie Zawinski  -->
 <!-- "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
 — Brian W. Kernighan -->
-"Talk is cheap. Show me the code.
-- Linus Torvalds
+"Talk is cheap. Show me the code.- Linus Torvalds
 
 <!--"People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."- Donald Knuth-->
  <img src="https://i0.wp.com/i.imgur.com/PfgvU6j.gif" width="52"> </b>
