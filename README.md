@@ -10,7 +10,7 @@
  
 
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="34" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="34" width="100%" loading="lazy">
 <div align="center">
     <img height="200px" src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea" loading="lazy"/>
 </div>
