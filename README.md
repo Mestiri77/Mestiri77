@@ -115,11 +115,11 @@ Data-Serialization-Language : ["YAML"],
 <!-- <img src="https://media.tenor.com/lO6HqZ3I2dIAAAAj/e.gif" width="52"> -->
 <i>
 <!--  Some people, when confronted to a problem, think "I know, I'll use regular expressions"BOOM now they have 2 - Jamie Zawinski  -->
-<!-- "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
-— Brian W. Kernighan -->
+"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
+— Brian W. Kernighan
 <!-- "You can’t have great software without a great team, and most software teams behave like dysfunctional families."
 - Jim McCarthy -->
-"People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."- Donald Knuth
+<!-- "People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."- Donald Knuth -->
 <!-- "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
 - Martin Golding -->
 <!-- "In theory, theory and practice are the same. In practice, they’re not."
