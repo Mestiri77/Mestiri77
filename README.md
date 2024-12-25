@@ -6,7 +6,7 @@
 </div> -->
 
 <div align="center">
-   <img width="259px" src="./assets/logo/sfectoriaArabic.png" loading="lazy"/>
+   <img width="259px" src="./assets/logo/mestiri logo.png" loading="lazy"/>
  
 
 </div>
