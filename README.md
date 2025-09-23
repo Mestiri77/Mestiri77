@@ -70,7 +70,7 @@
 
 ```javascript
 let Farouk = {
-  Family: ["Mestiri","Sfectoria","TuniRise","RBK","REBORN"],
+  Family: ["Mestiri","Sfectoria","TuniRise","RBK","REBORN","DDM"],
   Backend: [ "Nodejs","Expressjs","Nestjs",],
   Frontend: ["HTML", "Javascript", "ReactJs", "Css","Bootstrap","MUI"],
   Database: ["PostgreSQL", "MySQL", "Mongodb","FireBase"],
@@ -122,8 +122,10 @@ Data-Serialization-Language : ["YAML"],
 <!-- "People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."- Donald Knuth -->
 <!-- "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
 - Martin Golding -->
-"In theory, theory and practice are the same. In practice, they’re not."
-- Yoggi Berra
+"It's all talk until the code runs."
+— Ward Cunningham
+<!-- "In theory, theory and practice are the same. In practice, they’re not."
+- Yoggi Berra -->
  <img src="https://i0.wp.com/i.imgur.com/PfgvU6j.gif" width="52"> </b>
 
 
