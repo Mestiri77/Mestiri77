@@ -70,7 +70,7 @@
 
 ```javascript
 let Farouk = {
-  Family: ["Mestiri","Sfectoria","TuniRise","RBK","REBORN","DDM"],
+  Family: ["Mestiri","RBK","Sfectoria","Tunirise","REBORN","DDM"],
   Backend: [ "Nodejs","Expressjs","Nestjs",],
   Frontend: ["HTML", "Javascript", "ReactJs", "Css","Bootstrap","MUI"],
   Database: ["PostgreSQL", "MySQL", "Mongodb","FireBase"],
