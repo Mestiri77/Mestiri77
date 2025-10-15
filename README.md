@@ -75,12 +75,13 @@ let Farouk = {
   Frontend: ["HTML", "Javascript", "ReactJs", "Css","Bootstrap","MUI","Tailwind"],
   Database: ["PostgreSQL", "MySQL", "Mongodb","FireBase"],
   Open_api : ["SwaggerUI"],
-Data-Serialization-Language : ["YAML"],
+  Data-Serialization-Language : ["YAML"],
   ORM: ["Prisma","SEQUELIZE"],
   ODM: ["Mongoose"],
   CloudServer: ["MongoDB Atlas"],
   Architecture: ["MVC","Microsercices"],
-  Challenge: "Every challenge is accepted"
+  Challenge: "Every challenge is accepted",
+  Languages : ["Arabic","French","English","Spanish","German"]
 }
 ```
 ### Connect with me
