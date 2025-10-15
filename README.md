@@ -72,7 +72,7 @@
 let Farouk = {
   Family: ["Mestiri","RBK","Sfectoria","Tunirise","REBORN","DDMLABS"],
   Backend: [ "Nodejs","Expressjs","Nestjs",],
-  Frontend: ["HTML", "Javascript", "ReactJs", "Css","Bootstrap","MUI"],
+  Frontend: ["HTML", "Javascript", "ReactJs", "Css","Bootstrap","MUI","Tailwind"],
   Database: ["PostgreSQL", "MySQL", "Mongodb","FireBase"],
   Open_api : ["SwaggerUI"],
 Data-Serialization-Language : ["YAML"],
