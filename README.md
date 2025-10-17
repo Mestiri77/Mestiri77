@@ -52,8 +52,8 @@
 <div align="center">
 
 <img  src="https://github-readme-stats.vercel.app/api?username=mestiri77&show_icons=true&theme=dracula&include_all_commits=true&theme=buefy&hide_border=true" alt="mestiri's github stats"  width="370"/></a>
-<a href="https://www.sfectoria.com"><img src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea&mode=weekly" alt="GitHub Streak"  width="390"/></a>
-<a>
+<img src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea&mode=weekly" alt="GitHub Streak"  width="390"/></a>
+
 
 </div>
 <div align="center"  style="border-radius: 100px;display: inline-block;"">
