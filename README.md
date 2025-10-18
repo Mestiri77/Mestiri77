@@ -81,7 +81,7 @@ let Farouk = {
   CloudServer: ["MongoDB Atlas"],
   Architecture: ["MVC","Microsercices"],
   Challenge: "Every challenge is accepted",
-  Languages : ["Arabic","French","English","Spanish","German"]
+  Languages : ["Arabic","French","English","Spanish","German","Italian"]
 }
 ```
 ### Connect with me
