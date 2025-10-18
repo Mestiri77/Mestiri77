@@ -80,8 +80,8 @@ let Farouk = {
   ODM: ["Mongoose"],
   CloudServer: ["MongoDB Atlas"],
   Architecture: ["MVC","Microsercices"],
-  Challenge: "Every challenge is accepted",
-  Languages : ["Arabic","French","English","Spanish","German","Italian"]
+  Languages : ["Arabic","French","English","Spanish","German","Italian"],
+  Challenge: "Every challenge is accepted"
 }
 ```
 ### Connect with me
