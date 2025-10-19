@@ -123,14 +123,14 @@ let Farouk = {
 <!-- "People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."- Donald Knuth -->
 <!-- "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
 - Martin Golding -->
-"It's all talk until the code runs"
-— Ward Cunningham
+"Act with passion , build with vision & speak through actions"
+— Farouk Mestiri
 <!-- "In theory, theory and practice are the same. In practice, they’re not."
 - Yoggi Berra -->
  <img src="https://i0.wp.com/i.imgur.com/PfgvU6j.gif" width="52"> </b>
 
 
-🚀🕙 <b>OCT 18th, 2025, 14:43:30 
+🚀🕙 <b>OCT 19th, 2025, 19:26:30 
 <!--RECENT_ACTIVITY:last_update_end-->
 <!-- "It's all talk until the code runs."
 — Ward Cunningham -->
