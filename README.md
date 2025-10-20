@@ -52,7 +52,7 @@
 <div align="center">
 
 <img  src="https://github-readme-stats.vercel.app/api?username=mestiri77&show_icons=true&theme=github_dark" alt="mestiri's github stats"  width="370"/>
-<img src="https://streak-stats.demolab.com?user=Mestiri77&theme=dark&mode=weekly" alt="GitHub Streak"  width="390"/>
+<img src="https://streak-stats.demolab.com?user=Mestiri77&theme=github_dark&mode=weekly" alt="GitHub Streak"  width="390"/>
 
 
 </div>
