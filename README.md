@@ -6,11 +6,11 @@
 </div> -->
 
 <div align="center">
-   <img width="259px" src="./assets/logo/full logo.png" loading="lazy"/>
+   <img width="243px" src="./assets/logo/full logo.png" loading="lazy"/>
  
 
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="34" width="100%" loading="lazy">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%" loading="lazy">
 <div align="center">
     <img height="200px" src="https://streak-stats.demolab.com?user=Mestiri77&theme=github_dark" loading="lazy"/>
 </div>
