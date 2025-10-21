@@ -123,7 +123,7 @@ let Farouk = {
 <!-- "People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."- Donald Knuth -->
 <!-- "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
 - Martin Golding -->
-"Act with passion, build with vision & speak through actions"
+"Knowledge is power, acting is super power"
 — Farouk Mestiri
 <!-- "In theory, theory and practice are the same. In practice, they’re not."
 - Yoggi Berra -->
