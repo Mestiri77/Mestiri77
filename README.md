@@ -71,7 +71,7 @@
 ```javascript
 let Farouk = {
   Family: ["Mestiri","RBK","Sfectoria","Tunirise","REBORN","DDMLABS","MOON"],
-  Backend: [ "Nodejs","Expressjs","Nestjs",],
+  Backend: [ "Nodejs","Expressjs","Nestjs","FastAPI"],
   Frontend: ["HTML", "Javascript", "ReactJs", "Css","Bootstrap","MUI","Tailwind"],
   Database: ["PostgreSQL", "MySQL", "Mongodb","FireBase"],
   Open_api : ["SwaggerUI"],
