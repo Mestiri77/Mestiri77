@@ -12,7 +12,7 @@
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%" loading="lazy">
 <div align="center">
-    <img height="200px" src="https://streak-stats.demolab.com?user=Mestiri77&theme=github_dark" loading="lazy"/>
+    <img height="250px" src="https://streak-stats.demolab.com?user=Mestiri77&theme=github_dark" loading="lazy"/>
 </div>
 <div align="center">
 	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="142">
