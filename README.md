@@ -70,9 +70,9 @@
 
 ```javascript
 let Farouk = {
-  Family: ["Mestiri","RBK","Sfectoria","Tunirise","REBORN","DDMLABS","MOON"],
-  Backend: [ "Nodejs","Expressjs","Nestjs","FastAPI"],
-  Frontend: ["HTML", "Javascript", "ReactJs", "Css","Bootstrap","MUI","Tailwind"],
+  Family: ["Mestiri","RBK","Sfectoria","Tunirise","REBORN","DDMLABS","MOON".],
+  Backend: [ "Nodejs","Expressjs","Nestjs","FastAPI","FASTIFY"],
+  Frontend: ["HTML", "Javascript", "ReactJs", "Css","Bootstrap","MUI","Tailwind","ReactBits"],
   Database: ["PostgreSQL", "MySQL", "Mongodb","FireBase"],
   Open_api : ["SwaggerUI"],
   Data-Serialization-Language : ["YAML"],
